@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# `Ecommerce Website- Homepage`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📋 <a name="table">Table of Contents</a>
 
-## Available Scripts
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
 
-In the project directory, you can run:
+## <a name="introduction">🤖 Introduction</a>
 
-### `npm start`
+<img src="https://github.com/user-attachments/assets/f756703a-04ec-41e5-852f-07f1f33bab89" height="800" >
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A simple responsive homepage of Ecommerce website similar to printify. 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-### `npm run build`
+* React Js
+* Tailwind CSS
+* Antd
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## <a name="features">🔋 Features</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👉 **Framework**: Built using React Js.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👉 **Responsive Design**: Built with Tailwind CSS for mobile-first, responsive design across all devices.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   
+## <a name="quick-start">🤸 Quick Start</a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Follow these steps to set up the project locally on your machine.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Prerequisites**
 
-## Learn More
+Make sure you have the following installed on your machine:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Cloning the Repository**
 
-### Code Splitting
+```bash
+git clone https://github.com/Magar0/Ecommerce-homepage-React.git
+cd ./Ecommerce-homepage-React
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Installation**
 
-### Analyzing the Bundle Size
+Install the project dependencies using npm:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm install
+```
 
-### Making a Progressive Web App
+**Running the Project**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+npm start
+```
